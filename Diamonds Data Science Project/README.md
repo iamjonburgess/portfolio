@@ -1,4 +1,4 @@
-# Diamonds-Data-Science-Project
+# Diamonds Data Science Project
 
 This Project takes data from a .csv file (source: https://www.kaggle.com/shivam2503/diamonds) and 
 produces different charts to visualize data about diamonds in the dataset.
