@@ -5,7 +5,7 @@
 Using the Google Places API with a Database and Visualizing Data on Google Map
 
 This project uses the Google geocoding API to clean up user-entered geographic locations of
-university names and places the data on a Google Map.
+universities and places the data on a Google Map.
 
 *Note: As of December 2016, the Google Geocoding APIs changed dramatically.
 They moved some functionality from the Geocoding API into the Places API. 
