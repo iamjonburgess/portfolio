@@ -33,7 +33,7 @@ program reads the database and writes the file (where.js)
 with the location, latitude, and longitude in the form of
 executable JavaScript code.
 
-### where.html and where.js
+### where.html & where.js
 
 Open where.html to view the data in a browser
 
