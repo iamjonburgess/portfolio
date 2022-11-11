@@ -1,6 +1,6 @@
 # Google BigQuery Project
 
-This project uses Google Cloud’s BigQuery web service to run queries on public databases.
+This project uses Google Cloud’s BigQuery API to run queries on public databases.
 
 ![Google Cloud Dashboard](BigQueryAPI.png)
 
