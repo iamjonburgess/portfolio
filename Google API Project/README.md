@@ -1,11 +1,9 @@
 # Google API Data Visualization Project
 
-### Summary
-
-Using the Google Places API with a Database and Visualizing Data on Google Map
+## Summary
 
 This project uses the Google geocoding API to clean up user-entered geographic locations of
-universities and places the data on a Google Map.
+universities and places the data on a Google Map for visualization.
 
 *Note: As of December 2016, the Google Geocoding APIs changed dramatically.
 They moved some functionality from the Geocoding API into the Places API. 
@@ -47,5 +45,6 @@ geocoding API returned for the user-entered input.  If you
 cannot see any data when you open the where.html file, you might
 want to check the JavaScript or developer console for your browser.
 
+---
 
 *This project is a part of the "Using Databases with Python" course from the "Python for Everybody" specialization by Dr. Charles Severance*
