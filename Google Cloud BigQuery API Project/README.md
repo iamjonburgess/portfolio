@@ -4,10 +4,10 @@ This project uses Google Cloud’s BigQuery API to run queries on public databas
 
 ![Google Cloud Dashboard](BigQueryAPI.png)
 
-Note: In order to run this project, authentication credentials are needed from Google.
+*Note: In order to run this project, authentication credentials are needed from Google.
 This can be obtained from signing up to cloud.google.com (Google offers a free trial for
 this) and downloading the credentials as a .json file. The location for the authentication 
-file placement will be noted in each program as 'INSERT .JSON CREDENTIAL FILENAME'.
+file placement will be noted in each program by 'INSERT .JSON CREDENTIAL FILENAME'.*
 
 ### Databases Used
 
