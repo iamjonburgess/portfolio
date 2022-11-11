@@ -2,7 +2,7 @@
 
 ## Summary
 
-This project uses the Google geocoding API to clean up user-entered geographic locations of
+This project uses the Google Geocoding API to clean up user-entered geographic locations of
 universities and places the data on a Google Map for visualization.
 
 *Note: As of December 2016, the Google Geocoding APIs changed dramatically.
