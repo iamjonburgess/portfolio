@@ -21,7 +21,7 @@ the Medicare databases we examine here as they are used for hospital admissions.
 
 ---
 
-### Interesting ICD-10 codes:
+### 🤓 Interesting ICD-10 codes:
 
 - V97.33XD: Sucked into jet engine, subsequent encounter.
 - Z63.1: Problems in relationship with in-laws.
