@@ -19,7 +19,7 @@ without trying to load it all on your local machine.
 
 Below are the output results of the script:
 
-![Record Returned](images/MQPic.png)
+![Record Returned](MQPic.png)
 
 We found 112 records total from Great Falls. You can go back and change the query in the 
 program to see results from a different city and state.
