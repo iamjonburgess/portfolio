@@ -3,11 +3,13 @@
 ## Summary
 
 This project uses the Google Geocoding API to clean up user-entered geographic locations of
-universities and places the data on a Google Map for visualization.
+universities and places the data on a Google Map for visualization as seen below.
+
+![Google Map](result.png)
 
 *Note: As of December 2016, the Google Geocoding APIs changed dramatically.
 They moved some functionality from the Geocoding API into the Places API. 
-Also all the Google Geo-related APIs require an API key.
+Also all the Google Geo-related APIs require an API key.*
 
 To try this with the API key, follow the instructions at:
 
@@ -15,7 +17,7 @@ https://developers.google.com/maps/documentation/geocoding/intro
 
 and put the API key in the code.
 
-### geoload.py, geodata.sqlite, & geodump.py
+## geoload.py, geodata.sqlite, & geodump.py
 
 The first five locations are already in the database and so they
 are skipped.  The program scans to the point where it finds un-retrieved
@@ -31,7 +33,10 @@ program reads the database and writes the file (where.js)
 with the location, latitude, and longitude in the form of
 executable JavaScript code.
 
-### where.html & where.js
+## where.html & where.js
+
+The file where.js is a JavaScript list of lists. Note that the syntax for JavaScript
+list constants is very similar to Python.
 
 Open where.html to view the data in a browser
 
