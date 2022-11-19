@@ -10,4 +10,4 @@ cities in world.
 
 Below are the top 3 most polluted cities in the world (at the time of running the code):
 
-![Top 3](images/Top3Cities.png)
+![Top 3](Top3Cities.png)
